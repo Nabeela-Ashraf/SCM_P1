@@ -1,2 +1,2 @@
 # SCM_P1
-This is a demo project for class demonstration.
+This is a project for class demonstration.
